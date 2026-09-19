@@ -6,7 +6,7 @@
 <!-- Animated role text -->
 <p align="center">
   <a href="http://www.eawebmaster.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=680&lines=Full-Stack+Developer+%26+DevOps;React+%7C+React+Native+%7C+TypeScript;Node.js+%7C+Prisma+%7C+PostgreSQL;Docker+%7C+CI%2FCD+%7C+AWS;Building+SaaS+products+at+Just+Dev." alt="roles" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=680&lines=Full-Stack+Developer+%26+DevOps;React+%7C+React+Native+%7C+TypeScript;Node.js+%7C+NestJS+%7C+GraphQL+%7C+Prisma;Docker+%7C+CI%2FCD+%7C+AWS+%7C+GCP;AI+%2F+ML%3A+Gemini+%7C+Vertex+AI+%7C+RAG;Building+SaaS+products+at+Just+Dev." alt="roles" />
   </a>
 </p>
 
@@ -28,6 +28,7 @@ Full-Stack Developer and DevOps engineer building production apps end to end —
 - Web with **React + TypeScript**, mobile with **React Native**
 - Backend with **Node.js, Express, Prisma, PostgreSQL**
 - DevOps: **Docker, GitHub Actions CI/CD, AWS** (ECS Fargate, RDS, S3, CloudFront)
+- AI/ML: building AI-powered product features with **Google Gemini, Vertex AI and AWS Bedrock**, plus **RAG** pipelines and a custom model trained and served on **GCP Cloud Run** (iLearning)
 - I own features across the whole stack — UI, API design, databases, deployment and scaling
 - Reach me at [eawebmaster.com](http://www.eawebmaster.com)
 
@@ -66,6 +67,16 @@ Full-Stack Developer and DevOps engineer building production apps end to end —
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+<p align="center">
+  <b>AI &amp; ML</b><br/>
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI" />
+  <img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Bedrock" />
+  <img src="https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
+  <img src="https://img.shields.io/badge/RAG_%26_LLMs-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="RAG and LLMs" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
 </p>
 
 ---
