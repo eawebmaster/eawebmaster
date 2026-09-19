@@ -48,9 +48,14 @@ Full-Stack Developer and DevOps engineer building production apps end to end —
 <p align="center">
   <b>Backend &amp; Data</b><br/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <br/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 <p align="center">
@@ -68,8 +73,8 @@ Full-Stack Developer and DevOps engineer building production apps end to end —
 ### GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eawebmaster&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&icon_color=7AA2F7&title_color=7AA2F7" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eawebmaster&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=7AA2F7" alt="top langs" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eawebmaster&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eawebmaster&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&cache_seconds=86400" alt="top langs" />
 </p>
 
 <p align="center">
